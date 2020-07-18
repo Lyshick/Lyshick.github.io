@@ -42,19 +42,19 @@ html {
   font-size: 16px;
 }
 html >::-webkit-scrollbar {
-  height: 4px;
-  width: 4px;
+  height: 8px;
+  width: 8px;
 }
 html >::-webkit-scrollbar-track-piece {
   background: transparent;
 }
 html >::-webkit-scrollbar-thumb {
-  background: #2196f3;
+  background: #0cf;
   cursor: pointer;
   border-radius: 2px;
 }
 html >::-webkit-scrollbar-thumb:hover {
-  background: #ff5722;
+  background: #2196f3;
 }
 body {
   background-color: #f4f4f4;
