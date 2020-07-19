@@ -3387,7 +3387,6 @@ article .readmore >a {
   -o-transition: all 0.28s ease;
   color: rgba(85,85,85,0.65);
   text-shadow: 0 1px 2px rgba(0,0,0,0.05);
-  border-bottom: 2px solid transparent;
 }
 .cover-wrapper .cover .cover-body .menu ul>li>a i {
   margin-right: 4px;
