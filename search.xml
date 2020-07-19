@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>page</title>
+      <link href="/2020/07/19/categories/test/"/>
+      <url>/2020/07/19/categories/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>摸索中</title>
       <link href="/2020/07/18/article-title-1/"/>
       <url>/2020/07/18/article-title-1/</url>
@@ -27,8 +40,14 @@
       <link href="/2020/07/18/article-title/"/>
       <url>/2020/07/18/article-title/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>#关于文本编写与分类的尝试<br>markdown语法的编写模式</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
       
       
         <tags>
