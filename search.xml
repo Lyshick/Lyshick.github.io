@@ -1,28 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>摸索中</title>
-    <url>/2020/07/18/article-title-1/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>尝试改变</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hellow Lyshick</title>
-    <url>/2020/07/18/article-title/</url>
-    <content><![CDATA[<p>#关于文本编写与分类的尝试<br>markdown语法的编写模式</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>龙族Ⅰ火之晨曦</title>
+      <link href="/2020/07/19/longzu/1/"/>
+      <url>/2020/07/19/longzu/1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
       <categories>
-        <category>Test</category>
+          
+          <category> 龙族 </category>
+          
       </categories>
-      <tags>
-        <tag>第一次尝试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>page</title>
-    <url>/2020/07/19/categories/test/</url>
-    <content><![CDATA[]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 读感 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摸索中</title>
+      <link href="/2020/07/18/article-title-1/"/>
+      <url>/2020/07/18/article-title-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 尝试改变 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hellow Lyshick</title>
+      <link href="/2020/07/18/article-title/"/>
+      <url>/2020/07/18/article-title/</url>
+      
+        <content type="html"><![CDATA[<p>#关于文本编写与分类的尝试<br>markdown语法的编写模式</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 第一次尝试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
