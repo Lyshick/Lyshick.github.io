@@ -3396,7 +3396,6 @@ article .readmore >a {
 .cover-wrapper .cover .cover-body .menu ul>li>a.active,
 .cover-wrapper .cover .cover-body .menu ul>li>a:active {
   color: #555;
-  border-bottom: 2px solid #555;
 }
 .cover-wrapper .cover .cover-body .switcher > li a:hover {
   background: rgba(68,68,68,0.15);
